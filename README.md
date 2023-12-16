@@ -1,10 +1,10 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my 2023 - 2024 apprenticeship at Fiserv.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
+- **Host Company**: Fiserv
+- **Duration**: 15 months
 - **Link to Portfolio Website**:
 
 ## Portfolio Introduction
